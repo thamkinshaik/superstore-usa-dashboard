@@ -25,4 +25,11 @@ This project is an interactive **Tableau dashboard** built to analyze Superstore
 ## 📬 Contact
 
 **Shaik Thamkin Banu**  
+## 📬 Contact
+
+**Shaik Thamkin Banu**
+
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐙 GitHub: [@thamkinshaik](https://github.com/thamkinshaik)
 Feel free to connect for feedback or collaboration!
